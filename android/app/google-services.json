@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240041983071",
+    "project_id": "brancher-chatapp",
+    "storage_bucket": "brancher-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240041983071:android:7872db27feed1e5592efea",
+        "android_client_info": {
+          "package_name": "com.example.brancher_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240041983071-bsq81cm275qe8s027p2kro9qb844q4m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzbFJJOpyb929-f-sQiNlqj1_1WNZ-Rf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240041983071-bsq81cm275qe8s027p2kro9qb844q4m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
